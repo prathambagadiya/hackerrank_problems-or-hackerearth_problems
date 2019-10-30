@@ -1,6 +1,6 @@
 # Contributing to this repo
 
-Contribute solutions to HackerRank problems in any language.
+Contribute solutions to HackerRank/HackerEarth problems in any language.
 
 **Make sure that the file name is of format <HackerRank-problem-title>.<language-extension>
 **Please do not upload solutions to tutorial problems
