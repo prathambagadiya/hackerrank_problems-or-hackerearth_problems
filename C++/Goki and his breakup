@@ -11,11 +11,11 @@ int a[n];
     cin>>a[i];
     if(a[i]>=l)
       {
-      printf("Yes\n");
+      printf("YES\n");
       }
     else
       {
-      printf("No\n");
+      printf("NO\n");
       }
     }
 }
