@@ -11,7 +11,7 @@ Contribute solutions to HackerRank/HackerEarth problems in any language.
 git clone https://github.com/PrakashGatiyala/hackerrank_problems-or-hackerearth_problems
 
 git checkout -b <Branch-Name>
-Add your codes/solutions in the format <HackerRank/HackerEarth-problem-title>.<lang-extension>
+Add your codes/solutions in the format <Problem-title/Algorithm-title>.<lang-extension>
 add all your files using git add
 commit your file changes git commit -m "Whatever you did"
 push your changes git push origin <Branch-Name>
