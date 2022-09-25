@@ -4,6 +4,8 @@ Solutions to HackerRank/HackerEarth problems: Currently contains solutions imple
 
 Please read CONTRIBUTING.md for contribution guidelines.
 
+#### Mention your issue link in PR while creating PR. It will be used to track progress of issue. 
+
 #### If you are getting error while cloning this repo. Update your forked repo. (Sync your remote repo and then try to clone your fork repo)
 
 # How to create new Issue in this Repo. #102
