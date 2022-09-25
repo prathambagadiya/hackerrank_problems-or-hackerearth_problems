@@ -10,3 +10,6 @@ Please read CONTRIBUTING.md for contribution guidelines.
 
 # How to create new Issue in this Repo. #102
  Visit this issue: https://github.com/PrakashGatiyala/hackerrank_problems-or-hackerearth_problems/issues/102
+ 
+# I've launch the new Repo for beginner friendly contribution. 
+[60-seconds-of-cpp](https://github.com/PrakashGatiyala/60-seconds-of-cpp)
